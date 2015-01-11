@@ -2,6 +2,7 @@
 
 ### master
 
+* [ENHANCEMENT] Define custom headers accessible for browser (Access-Control-Expose-Headers)
 * [ENHANCEMENT] Support layout for Ractive template engine
 
 
